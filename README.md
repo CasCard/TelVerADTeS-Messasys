@@ -10,6 +10,6 @@ Message             |  Map
 Data logged in website during the trigger of the accident
 ![preview website](track.png)
 ###
-![preview website](setup_one.png)
-![preview website](setup_two.png)
-![preview website](setup_three.png)
+![preview website](setup_one.jpg)
+![preview website](setup_two.jpg)
+![preview website](setup_three.jpg)
