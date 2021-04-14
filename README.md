@@ -7,7 +7,7 @@ Slides presented during the finals of Science Fair : [Presentation](https://1drv
 ### Mobile alerts
 Message             |  Map
 :-------------------------:|:-------------------------:
-![](map.png)  |  ![](images/message.png)
+![](images/map.png)  |  ![](images/message.png)
 ### Server side
 Data logged in website during the trigger of the accident
 ![preview website](images/track.png)
