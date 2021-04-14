@@ -12,7 +12,7 @@ Message             |  Map
 Data logged in website during the trigger of the accident
 ![preview website](images/track.png)
 ###
-![preview website](images/helmet.jpg)
+![preview website](images/Helmet.jpg)
 ![preview website](images/setup_one.jpg)
 ![preview website](images/setup_two.jpg)
 ![preview website](images/setup_three.jpg)
